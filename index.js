@@ -4,8 +4,8 @@ var kittens = ['Milo', 'Otis', 'Garfield'];
 
 function destructivelyAppendKitten(array, element){
 
-array.push(element);
-return array;
+return array.push(element);
+
 };
 
 destructivelyAppendKitten(kittens, mittins);
