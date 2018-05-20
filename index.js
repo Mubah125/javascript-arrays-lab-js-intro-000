@@ -7,5 +7,3 @@ function destructivelyAppendKitten(array, element){
 return array.push(element);
 
 };
-
-console.log(destructivelyAppendKitten(kittens, "Mittins"));
