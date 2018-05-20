@@ -8,4 +8,4 @@ return array.push(element);
 
 };
 
-destructivelyAppendKitten(kittens, mittins);
+console.log(destructivelyAppendKitten(kittens, mittins));
