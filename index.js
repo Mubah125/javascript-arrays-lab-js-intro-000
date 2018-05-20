@@ -29,6 +29,6 @@ kittens.shift(name);
 
 function appendKitten(name){
 
-[...kittens , name];
+return [...kittens , name];
 
 };
